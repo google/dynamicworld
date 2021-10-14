@@ -3,6 +3,8 @@
 Model files and example notebook for Dynamic World, see **[PUBLICATION DOI
 PENDING REVIEW]**.
 
+***This is not an officially supported Google product.***
+
 -   [TensorFlow SavedModels](https://www.tensorflow.org/guide/saved_model) for
     the forward and backward path can be found in `./model/forward` and
     `./model/backward` respectively.
