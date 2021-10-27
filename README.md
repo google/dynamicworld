@@ -1,4 +1,5 @@
 # Dynamic World Model Runner
+[![DOI](https://zenodo.org/badge/413957377.svg)](https://zenodo.org/badge/latestdoi/413957377)
 
 Model files and example notebook for Dynamic World, see **[PUBLICATION DOI
 PENDING REVIEW]**.
