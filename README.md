@@ -1,8 +1,9 @@
 # Dynamic World Model Runner
+
 [![DOI](https://zenodo.org/badge/413957377.svg)](https://zenodo.org/badge/latestdoi/413957377)
 
-Model files and example notebook for Dynamic World, see **[PUBLICATION DOI
-PENDING REVIEW]**.
+Model files and example notebook for Dynamic World, see
+https://doi.org/10.1038/s41597-022-01307-4.
 
 ***This is not an officially supported Google product.***
 
